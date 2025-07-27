@@ -6,13 +6,13 @@ Selected Publications (etc) by Gen Kiyooka
 ### BYTE ###
 [**BYTE - Subclassing in OLE 2.0**](BYTE-MAGAZINE/199401%20BYTE%20-%20Subclassing%20in%20OLE%202.0%20-%20KIYOOKA%20GEN.pdf)
 
-*REFERENCED BY MICROSOFT & IBM PATENTS*
-https://patents.google.com/patent/US6412020B1/en
-https://patents.google.com/patent/US6654955B1/en
+*REFERENCED BY MICROSOFT & IBM PATENTS*  
+https://patents.google.com/patent/US6412020B1/en  
+https://patents.google.com/patent/US6654955B1/en  
 
 [**BYTE - Getting a Handle on NT**](BYTE-MAGAZINE/199305%20BYTE%20-%20Getting%20a%20Handle%20on%20NT%20-%20KIYOOKA%20GEN.pdf)
 
-*REFERENCED BY US PATENT US5628016A* https://patents.google.com/patent/US5628016A/en
+*REFERENCED BY US PATENT US5628016A*  https://patents.google.com/patent/US5628016A/en
 
 [**BYTE - Object-Oriented DLLs**](BYTE-MAGAZINE/199212%20BYTE%20-%20Object%20Oriented%20DLLs%20-%20KIYOOKA%20GEN.pdf)
 
