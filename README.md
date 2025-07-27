@@ -28,7 +28,7 @@ https://patents.google.com/patent/US5628016A/en
 ### [**CREATIVE COMPUTING - AppleCart Contest Winners**](1980s/CREATIVECOMPUTING_SEPTEMBER_1985%20-%20AppleCart%20Contest%20Winners.pdf)
 *My main claim to fame in 1985. A legend in my own mind.*
 
-### [**RUN MAGAZINE - The Mechanic**](1980s/#### RUN_APRIL_1986%20-%20THE%20MECHANIC.pdf)
+### [**RUN MAGAZINE - The Mechanic**](1980s/RUN_APRIL_1986%20-%20THE%20MECHANIC.pdf)  
 *C64 Floppy Disc Sector Editor, Assembly Language "Monitor" and other nerdy things*.
 
 
