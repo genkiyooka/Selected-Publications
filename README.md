@@ -4,24 +4,24 @@ Selected Publications (etc) by Gen Kiyooka
 
 ## 1990s
 ### BYTE ###
-[BYTE - Subclassing in OLE 2.0](BYTE-MAGAZINE/199401 BYTE - Subclassing in OLE 2.0 - KIYOOKA GEN.pdf)
+[BYTE - Subclassing in OLE 2.0](BYTE-MAGAZINE/199401%20BYTE%20-%20Subclassing%20in%20OLE%202.0%20-%20KIYOOKA%20GEN.pdf)
 
-[BYTE - Object-Oriented DLLs](BYTE-MAGAZINE/199212 BYTE - Object Oriented DLLs - KIYOOKA GEN.pdf)
+[BYTE - Object-Oriented DLLs](BYTE-MAGAZINE/199212%20BYTE%20-%20Object%20Oriented%20DLLs%20-%20KIYOOKA%20GEN.pdf)
 
-[BYTE - Getting a Handle on NT](BYTE-MAGAZINE/199305 BYTE - Getting a Handle on NT - KIYOOKA GEN.pdf)
+[BYTE - Getting a Handle on NT](BYTE-MAGAZINE/199305%20BYTE%20-%20Getting%20a%20Handle%20on%20NT%20-%20KIYOOKA%20GEN.pdf)
 
 ### SOFTWARE DEVELOPMENT (SD MAG) ###
-[SD - Extending Windows Executables](SD-MAGAZINE/SD.1993.11 Extending Windows Executables - KIYOOKA GEN.pdf)
+[SD - Extending Windows Executables](SD-MAGAZINE/SD.1993.11%20Extending%20Windows%20Executables%20-%20KIYOOKA%20GEN.pdf)
 
-[SD - Reusability is a Habit](SD-MAGAZINE/SD.1994.03 Reusability is a Habit - KIYOOKA GEN.pdf)
+[SD - Reusability is a Habit](SD-MAGAZINE/SD.1994.03%20Reusability%20is%20a%20Habit%20-%20KIYOOKA%20GEN.pdf)
 
-[SD - In Search of Organic Robustness](SD-MAGAZINE/SD.1994.05 In Search of Organic Robustness - KIYOOKA GEN.pdf)
+[SD - In Search of Organic Robustness](SD-MAGAZINE/%20In%20Search%20of%20Organic%20Robustness%20-%20KIYOOKA%20GEN.pdf)
 
 
 ## 1980s
-[CREATIVE COMPUTING - AppleCart Contest Winners](1980s/CREATIVECOMPUTING_SEPTEMBER_1985 - AppleCart Contest Winners.pdf) My main claim to fame in 1985.
+[CREATIVE COMPUTING - AppleCart Contest Winners](1980s/CREATIVECOMPUTING_SEPTEMBER_1985%20-%20AppleCart%20Contest%20Winners.pdf) My main claim to fame in 1985.
 
-[RUN MAGAZINE - The Mechanic](1980s/RUN_APRIL_1986 - THE MECHANIC.pdf)
+[RUN MAGAZINE - The Mechanic](1980s/RUN_APRIL_1986%20-%20THE%20MECHANIC.pdf)
 C64 Floppy Disc Sector Editor, Assembly Language "Monitor" and other nerdy things.
 
 
