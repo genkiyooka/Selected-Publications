@@ -1,7 +1,7 @@
 # Selected Publications
 Selected Publications (etc) by Gen Kiyooka
 
-## BYTE ##
+## BYTE MAGAZINE ##
 ### [**BYTE - Subclassing in OLE 2.0**](BYTE-MAGAZINE/199401%20BYTE%20-%20Subclassing%20in%20OLE%202.0%20-%20KIYOOKA%20GEN.pdf)
 
 *REFERENCED BY MICROSOFT & IBM PATENTS*  
