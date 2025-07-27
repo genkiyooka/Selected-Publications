@@ -20,7 +20,7 @@ https://patents.google.com/patent/US5628016A/en
 
 ### [**SD - Reusability is a Habit**](SD-MAGAZINE/SD.1994.03%20Reusability%20is%20a%20Habit%20-%20KIYOOKA%20GEN.pdf)
 
-### [**SD - In Search of Organic Robustness**](SD-MAGAZINE/In%20Search%20of%20Organic%20Robustness%20-%20KIYOOKA%20GEN.pdf)  
+### [**SD - In Search of Organic Robustness**](SD-MAGAZINE/SD.1994.05%20In%20Search%20of%20Organic%20Robustness%20-%20KIYOOKA%20GEN.pdf)  
 
 
 ## MISCELLANEOUS ##
