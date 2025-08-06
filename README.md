@@ -26,7 +26,7 @@ https://patents.google.com/patent/US5628016A/en
 
 ### [**BYTE - Object-Oriented DLLs**](BYTE-MAGAZINE/199212%20BYTE%20-%20Object%20Oriented%20DLLs%20-%20KIYOOKA%20GEN.pdf)
 
-## SOFTWARE DEVELOPMENT (SD MAG)##
+## SOFTWARE DEVELOPMENT (SD MAG)
 ### [**SD - Extending Windows Executables**](SD-MAGAZINE/SD.1993.11%20Extending%20Windows%20Executables%20-%20KIYOOKA%20GEN.pdf)
 
 ### [**SD - Reusability is a Habit**](SD-MAGAZINE/SD.1994.03%20Reusability%20is%20a%20Habit%20-%20KIYOOKA%20GEN.pdf)
