@@ -14,7 +14,7 @@ WinHelp structured documentation authoring and publishing.
 
 ## EXPERIMENTAL ART & MUSIC ##
 
-### [Alien Cowgrrrl](http://aliencowgrrrl.ca) - `Intergalactic alt.country band.`
+### [Alien Cowgrrrl](http://aliencowgrrrl.ca) - `Intergalactic alt.country band`
 
 ### [@gen_comedy](https://www.instagram.com/gen_comedy/) - `Animation & comedy`
 
